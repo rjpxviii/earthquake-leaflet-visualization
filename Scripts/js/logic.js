@@ -1,5 +1,5 @@
 // Define the URL for the earthquake data
-const earthquakeDataUrl = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/1.0_day.geojson"; // 1.0_day.geojson last 7 days
+const earthquakeDataUrl = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson"; //  last 7 days
 const tectonicPlatesDataUrl = "Suppporting Files/Geospatial Files/PB2002_boundaries.json"; // local GeoJSON file
 
 // Create the map object and set its initial view to a given location and zoom level
