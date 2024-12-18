@@ -1,6 +1,6 @@
 // Define the URL for the earthquake data
 const earthquakeDataUrl = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson"; //  last 7 days
-const tectonicPlatesDataUrl = "Suppporting Files/Geospatial Files/PB2002_boundaries.json"; // local GeoJSON file
+const tectonicPlatesDataUrl = "Supporting Files/Geospatial Files/PB2002_boundaries.json"; // local GeoJSON file
 
 // Create the map object and set its initial view to a given location and zoom level
 let map = L.map("map").setView([37.7749, -122.4194], 3); // Adjust latitude, longitude, and zoom as needed
