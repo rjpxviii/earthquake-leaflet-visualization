@@ -7,7 +7,8 @@ This project is an interactive map visualization of earthquake data using [Leafl
 - **GeoJSON Feed**: [All Earthquakes Data in past week](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson)
 - **Tectonic Plates Data**: [Tectonic Plates GeoJSON](https://github.com/fraxen/tectonicplates)
 
-Click the link below to view the project preview.
+Click the link below to view the visualization:
+[Visualization](https://rjpxviii.github.io/earthquake-leaflet-visualization/)
 
 ## Features 
 - **Earthquake Markers**:  
