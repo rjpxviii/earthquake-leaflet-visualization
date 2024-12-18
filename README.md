@@ -23,11 +23,11 @@ Click the link below to view the project preview.
 - **Tectonic Plates**:  
     - The map features tectonic plate boundaries, allowing users to observe the connection between earthquake locations and plate edges.  
 
-- **Additional Base Layers**:  
-    - **Grayscale**: A subtle, monochromatic map layer.  
-    - **Outdoors**: A terrain-focused layer that emphasizes geographical features.  
+- **Layers**:  
+    - **Reference**: Base map. 
+    - **Outdoors**: A detailed representation of the Earth's surface that uses contour lines to depict elevation and terrain features  
 
 - **Layer Control**:  
-    - Users can switch between various base maps (Satellite, Grayscale, Outdoors) and toggle the visibility of earthquake markers and tectonic plate boundaries.  
+    - Users can switch between various base maps and toggle the visibility of earthquake markers and tectonic plate boundaries.  
 
-Formatted with AI. Thanks for exploring! Enjoy the map!  
+Thanks for exploring! 
