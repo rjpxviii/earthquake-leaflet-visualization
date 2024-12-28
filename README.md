@@ -26,7 +26,7 @@ Click the link to view the visualization:
 
 - **Layers**:  
     - **Reference**: Base map. 
-    - **Outdoors**: A detailed representation of the Earth's surface that uses contour lines to depict elevation and terrain features  
+    - **Topographical**: A detailed representation of the Earth's surface that uses contour lines to depict elevation and terrain features  
 
 - **Layer Control**:  
     - Users can switch between various base maps and toggle the visibility of earthquake markers and tectonic plate boundaries.  
